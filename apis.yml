@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Manufacturing
-  - Quality Control
   - Data Analytics
   - IoT
+  - Manufacturing
+  - Quality Control
 created: '2025-02-06'
 modified: '2026-03-16'
 url: >-
@@ -27,8 +27,8 @@ apis:
       integration with other systems.
     humanURL: https://instrumental.com/support/data-read-api-documentation
     tags:
-      - Manufacturing
       - Data Analytics
+      - Manufacturing
       - Quality Control
     properties:
       - type: Documentation
