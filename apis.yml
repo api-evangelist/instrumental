@@ -36,6 +36,12 @@ apis:
 common:
   - type: Website
     url: https://instrumental.com/
+  - type: Integrations
+    url: https://instrumental.com/partners
+integrations:
+  - name: nvidia
+  - name: AWS
+  - name: Instrumental
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
