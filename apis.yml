@@ -6,7 +6,7 @@ description: >-
   Instrumental API enables programmatic access to retrieve unit and inspection
   test data and metadata from Instrumental projects.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Data Analytics
   - IoT
