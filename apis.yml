@@ -34,12 +34,16 @@ apis:
       - type: Documentation
         url: https://instrumental.com/support/data-read-api-documentation
 common:
+  - type: DomainSecurity
+    url: security/instrumental-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/Instrumental
   - type: Website
     url: https://instrumental.com/
   - type: Integrations
     url: https://instrumental.com/partners
+  - url: https://instrumental.com/feed
+    type: Blog
 integrations:
   - name: nvidia
   - name: AWS
