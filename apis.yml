@@ -57,6 +57,12 @@ apis:
       - type: Documentation
         url: https://instrumental.com/support/data-read-api-documentation
 common:
+  - type: Plans
+    url: plans/instrumental-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/instrumental-rate-limits.yml
+  - type: FinOps
+    url: finops/instrumental-finops.yml
   - type: DomainSecurity
     url: security/instrumental-domain-security.yml
   - type: GitHubOrganization
